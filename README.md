@@ -1,3 +1,3 @@
 # Ponderful_PlanetAdjuster
 
-# After CLustering applied, read, clip, join and export the data
+# After Clustering applied, read, clip, join and export the data
